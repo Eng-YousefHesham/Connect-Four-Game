@@ -1,0 +1,11 @@
+# Executables
+*.exe
+*.out
+*.app
+connect4
+
+# IDE / Build files
+.vscode/
+.idea/
+*.o
+*.obj
